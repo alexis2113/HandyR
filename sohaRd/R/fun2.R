@@ -1,13 +1,11 @@
-
-#' a fun
+#' Titlesa
 #'
 #' @param p.vals a
 #' @param number.categories a
 #'
-#' @return a 
+#' @return a
 #' @export
 #'
-#' 
 fun2 <-
 function(p.vals, number.categories) {
   

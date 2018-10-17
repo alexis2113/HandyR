@@ -2,20 +2,20 @@
 % Please edit documentation in R/clean.table.R
 \name{clean.table}
 \alias{clean.table}
-\title{aTitle}
+\title{Titlesaa}
 \usage{
 clean.table(data, variable.number, max.levels.of.factor = 7)
 }
 \arguments{
-\item{data}{a}
+\item{data}{s}
 
-\item{variable.number}{a}
+\item{variable.number}{s}
 
-\item{max.levels.of.factor}{a}
+\item{max.levels.of.factor}{s}
 }
 \value{
 a
 }
 \description{
-aTitle
+Titlesaa
 }

@@ -1,8 +1,8 @@
-#' aTitle
+#' Titlesaa
 #'
-#' @param data a
-#' @param variable.number a
-#' @param max.levels.of.factor a
+#' @param data s
+#' @param variable.number s
+#' @param max.levels.of.factor s
 #'
 #' @return a
 #' @export

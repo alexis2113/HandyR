@@ -2,7 +2,7 @@
 % Please edit documentation in R/fun2.R
 \name{fun2}
 \alias{fun2}
-\title{a fun}
+\title{Titlesa}
 \usage{
 fun2(p.vals, number.categories)
 }
@@ -15,5 +15,5 @@ fun2(p.vals, number.categories)
 a
 }
 \description{
-a fun
+Titlesa
 }
