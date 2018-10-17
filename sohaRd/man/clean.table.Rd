@@ -2,19 +2,23 @@
 % Please edit documentation in R/clean.table.R
 \name{clean.table}
 \alias{clean.table}
-\title{Function searches a specific airline by IATA code}
+\title{Function to clean}
 \usage{
 clean.table(data, variable.number, max.levels.of.factor = 7)
 }
 \arguments{
-\item{data}{variable.number max.level.of.factor}
+\item{data}{describtion}
+
+\item{variable.number}{a number}
+
+\item{max.level.of.factor}{a number}
 }
 \value{
 data.frame() with the airline
 }
 \description{
-Function searches a specific airline by IATA code
+Function to clean
 }
 \author{
-who?
+AxH
 }

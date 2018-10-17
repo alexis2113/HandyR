@@ -1,9 +1,11 @@
-#' Function searches a specific airline by IATA code
+#' Function to clean
 #'
-#' @param data variable.number max.level.of.factor
+#' @param data describtion
+#' @param variable.number a number
+#' @param max.level.of.factor a number
 #' @return data.frame() with the airline
 #'
-#' @author who?
+#' @author AxH
 #'
 #' 
 #'
