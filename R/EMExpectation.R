@@ -1,14 +1,14 @@
-#' Titlesa
+#' Titlea
 #'
-#' @param p.vals a
-#' @param number.categories a
+#' @param p.vals s
+#' @param number.categories s
 #'
-#' @return a
+#' @return s
 #' @export
 #'
-fun2 <-
+#' 
+EMExpectation <-
 function(p.vals, number.categories) {
-  
   # Generates posterior probabilities of whether variables belong to categories
   #
   # Args:
